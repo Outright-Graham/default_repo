@@ -1,17 +1,4 @@
-* {
-  margin:0px;
-  padding:0px;
-}
+* {box-sizing: border-box;}
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
-}
-
-p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-}
+#whyhellothere {max-width: 550px; margin: 0 auto; padding: 15px; background-color: #131313;}
+#whyhellothere p {font: 20px 'sans-serif', "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono";}
