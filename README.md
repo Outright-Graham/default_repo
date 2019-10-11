@@ -1,3 +1,3 @@
-Outright, LLC
+Default 
 
-This is my effort to better the internet and myself through helping others. 
+This is just an empty repo with some basic files. Purpose is for building a foundation for other repos.
